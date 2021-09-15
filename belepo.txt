@@ -1,0 +1,2 @@
+git config --global user.email "email cím"
+git config --global user.name "név"
